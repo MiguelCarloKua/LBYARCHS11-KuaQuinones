@@ -7,7 +7,7 @@
 
 ### Note
 
-The rest of the pictures 
+The rest of the pictures of other test cases can be found in [screenshots](https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/tree/main/screenshots)
 
 
 ## Introduction
