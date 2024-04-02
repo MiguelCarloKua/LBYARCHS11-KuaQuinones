@@ -5,7 +5,7 @@ Angelo Yanto Quinones
 S12
 
 
-## The documentation can be found in the documentations folder.
+## The documentation file can be found in the documentation folder.
 
 
 
