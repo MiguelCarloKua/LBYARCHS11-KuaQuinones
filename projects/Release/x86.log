@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\Angelo\source\repos\x86\x86\main.c(77,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Angelo\source\repos\x86\x86\main.c(84,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Angelo\source\repos\x86\x86\main.c(91,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Angelo\source\repos\x86\x86\main.c(99,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Angelo\source\repos\x86\x86\main.c(101,32): warning C4133: 'function': incompatible types - from 'float *' to 'double *'
+C:\Users\Angelo\source\repos\x86\x86\main.c(101,41): warning C4133: 'function': incompatible types - from 'float *' to 'double *'
+C:\Users\Angelo\source\repos\x86\x86\main.c(101,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Angelo\source\repos\x86\x86\main.c(108,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Angelo\source\repos\x86\x86\main.c(110,32): warning C4133: 'function': incompatible types - from 'float *' to 'double *'
+C:\Users\Angelo\source\repos\x86\x86\main.c(110,41): warning C4133: 'function': incompatible types - from 'float *' to 'double *'
+C:\Users\Angelo\source\repos\x86\x86\main.c(110,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Angelo\source\repos\x86\x86\main.c(117,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Angelo\source\repos\x86\x86\main.c(119,32): warning C4133: 'function': incompatible types - from 'float *' to 'double *'
+C:\Users\Angelo\source\repos\x86\x86\main.c(119,41): warning C4133: 'function': incompatible types - from 'float *' to 'double *'
+C:\Users\Angelo\source\repos\x86\x86\main.c(119,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.obj : error LNK2001: unresolved external symbol _dotProduct86
+C:\Users\Angelo\source\repos\x86\Release\x86.exe : fatal error LNK1120: 1 unresolved externals
