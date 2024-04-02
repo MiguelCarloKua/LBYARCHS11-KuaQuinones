@@ -1,2 +1,0 @@
-^C:\USERS\ANGELO\SOURCE\REPOS\X86\X86\ASMFUNC.ASM
-"C:\Program Files (x86)\SASM\NASM\nasm.exe" -f win64 asmfunc.asm
