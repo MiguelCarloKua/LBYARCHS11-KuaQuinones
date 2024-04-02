@@ -20,13 +20,13 @@ The comparison is based on program runs with the input value "20". The C and ass
 
 ### Observations:
 
-![Figure 1: Input 15 in Debug Mode]([image]https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/blob/main/screenshots/debug/15debug.png)
+![Figure 1: Input 15 in Debug Mode](https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/blob/main/screenshots/debug/15debug.png)
 
-![Figure 2: Input 15 in Release Mode]((https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/blob/main/screenshots/release/Screenshot%202024-04-02%20203923.png))
+![Figure 2: Input 15 in Release Mode](https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/blob/main/screenshots/release/Screenshot%202024-04-02%20203923.png)
 
-![Figure 3: Input 20 in Debug Mode]([image](https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/blob/main/screenshots/debug/20debug.png))
+![Figure 3: Input 20 in Debug Mode](https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/blob/main/screenshots/debug/20debug.png)
 
-![Figure 4: Input 20 in Release Mode]([image](https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/blob/main/screenshots/release/Screenshot%202024-04-02%20203812.png))
+![Figure 4: Input 20 in Release Mode](https://github.com/MiguelCarloKua/LBYARCHS11-KuaQuinones/blob/main/screenshots/release/Screenshot%202024-04-02%20203812.png)
 
 - For 3 iterations, the function iterates to calculate \( n \), \( n+4 \), and \( n+10 \) powers, simulating the powers of 20, 24, and 30, respectively.
 - Both debug and release modes showed a consistent gap in performance between the C and assembly versions.
